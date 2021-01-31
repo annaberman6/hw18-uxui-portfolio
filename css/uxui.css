@@ -1,0 +1,390 @@
+/* screen - uxui */
+
+.avenir-book-normal-black-24px {
+    color: var(--black);
+    font-family: 'Avenir-Book', Helvetica, Arial, serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .avenir-heavy-normal-white-18px {
+    color: var(--white);
+    font-family: 'Avenir-Heavy', Helvetica, Arial, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .black-border-5px {
+    border: 5px solid var(--black);
+  }
+  .ubuntu-bold-black-20px {
+    color: var(--black);
+    font-family: 'Ubuntu', Helvetica, Arial, serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .ubuntu-bold-black-34px {
+    color: var(--black);
+    font-family: 'Ubuntu', Helvetica, Arial, serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .ubuntu-normal-black-20px {
+    color: var(--black);
+    font-family: 'Ubuntu', Helvetica, Arial, serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .uxui {
+    background-color: var(--white);
+    height: 3052px;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  .uxui .about-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 1303px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 76px;
+    width: 69px;
+  }
+  .uxui .bananalogo-05-1-C61RwL {
+    background-color: transparent;
+    height: 507px;
+    left: 138px;
+    position: absolute;
+    top: 161px;
+    width: 528px;
+  }
+  .uxui .case-study-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 781px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 1120px;
+    width: 97px;
+  }
+  .uxui .case-study-VMr6Om {
+    background-color: transparent;
+    height: auto;
+    left: 565px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 1861px;
+    width: 97px;
+  }
+  .uxui .case-study-mzXdH9 {
+    background-color: transparent;
+    height: auto;
+    left: 789px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 2605px;
+    width: 97px;
+  }
+  .uxui .dept-of-ed-n-redesign-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 738px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 2404px;
+    width: 559px;
+  }
+  .uxui .figure-it-out-app-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 730px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 922px;
+    width: 559px;
+  }
+  .uxui .fio-mockup-1-C61RwL {
+    background-color: transparent;
+    height: 524px;
+    left: 211px;
+    position: absolute;
+    top: 795px;
+    width: 468px;
+  }
+  .uxui .graphic-design-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 1113px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 76px;
+    width: 149px;
+  }
+  .uxui .group-11-C61RwL {
+    background-color: transparent;
+    height: 50px;
+    left: 101px;
+    position: absolute;
+    top: 2895px;
+    width: 1259px;
+  }
+  .uxui .group-2-Lihjms {
+    background-color: transparent;
+    background-image: url(../img/icons8-mail-250-2-1@2x.png);
+    background-size: 100% 100%;
+    height: 50px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 50px;
+  }
+  .uxui .group-4-bAyQtV {
+    background-color: transparent;
+    height: 50px;
+    left: 1133px;
+    position: absolute;
+    top: 0px;
+    width: 50px;
+  }
+  .uxui .hi-im-anna-C61RwL {
+    background-color: transparent;
+    color: var(--black);
+    font-family: 'Ubuntu', Helvetica, Arial, serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    height: auto;
+    left: 728px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 231px;
+    width: 610px;
+  }
+  .uxui .icons8-lin-in-250-2-1-C61RwL {
+    background-color: transparent;
+    height: 50px;
+    left: 1310px;
+    position: absolute;
+    top: 2895px;
+    width: 50px;
+  }
+  .uxui .icons8-lin-in-250-2-2-bAyQtV {
+    background-color: transparent;
+    height: 50px;
+    left: 1209px;
+    position: absolute;
+    top: 0px;
+    width: 50px;
+  }
+  .uxui .icons8-mail-250-2-1-C61RwL {
+    background-color: transparent;
+    height: 50px;
+    left: 1234px;
+    position: absolute;
+    top: 2895px;
+    width: 50px;
+  }
+  .uxui .im-a-uxui--aesthetics-C61RwL {
+    background-color: transparent;
+    color: var(--black);
+    font-family: 'Ubuntu', Helvetica, Arial, serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 500;
+    height: auto;
+    left: 729px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 327px;
+    width: 610px;
+  }
+  .uxui .intersect-C61RwL {
+    background-color: transparent;
+    height: 690px;
+    left: -80px;
+    position: absolute;
+    top: 565px;
+    width: 1616px;
+  }
+  .uxui .intersect-VMr6Om {
+    background-color: transparent;
+    height: 689px;
+    left: -80px;
+    position: absolute;
+    top: 2060px;
+    width: 1616px;
+  }
+  .uxui .intersect-mzXdH9 {
+    background-color: transparent;
+    height: 690px;
+    left: -80px;
+    position: absolute;
+    top: 1312px;
+    width: 1616px;
+  }
+  .uxui .narf-mockup-copy-1-C61RwL {
+    background-color: transparent;
+    height: 580px;
+    left: 727px;
+    position: absolute;
+    top: 1499px;
+    width: 757px;
+  }
+  .uxui .narf-respo-e-redesign-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 152px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 1657px;
+    width: 559px;
+  }
+  .uxui .native-ame-form-users-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 52px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 1711px;
+    width: 660px;
+  }
+  .uxui .original-m-er-classes-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 730px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 980px;
+    width: 660px;
+  }
+  .uxui .rectangle-1-C61RwL {
+    background-color: var(--candlelight);
+    border-radius: 4px;
+    height: 1px;
+    left: 1000px;
+    position: absolute;
+    top: 101px;
+    width: 59px;
+  }
+  .uxui .rectangle-10-bAyQtV {
+    background-color: var(--black);
+    border-radius: 26px;
+    height: 50px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 196px;
+  }
+  .uxui .rectangle-12-C61RwL {
+    background-color: transparent;
+    border-radius: 5px;
+    height: 42px;
+    left: 1237px;
+    position: absolute;
+    top: 2899px;
+    width: 43px;
+  }
+  .uxui .rectangle-12-ulBsDx {
+    background-color: transparent;
+    border-radius: 5px;
+    height: 42px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 43px;
+  }
+  .uxui .rectangle-6-C61RwL {
+    background-color: var(--black);
+    border-radius: 26px;
+    height: 50px;
+    left: 730px;
+    position: absolute;
+    top: 1108px;
+    width: 196px;
+  }
+  .uxui .rectangle-8-C61RwL {
+    background-color: var(--black);
+    border-radius: 26px;
+    height: 50px;
+    left: 514px;
+    position: absolute;
+    top: 1849px;
+    width: 196px;
+  }
+  .uxui .rectangle-9-C61RwL {
+    background-color: var(--black);
+    border-radius: 26px;
+    height: 50px;
+    left: 738px;
+    position: absolute;
+    top: 2592px;
+    width: 196px;
+  }
+  .uxui .resume-bAyQtV {
+    background-color: transparent;
+    height: auto;
+    left: 64px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 12px;
+    width: 69px;
+  }
+  .uxui .us-departm--resources-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 738px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 2462px;
+    width: 660px;
+  }
+  .uxui .uxui-C61RwL {
+    background-color: transparent;
+    height: auto;
+    left: 1000px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 76px;
+    width: 67px;
+  }
+  :root {
+    --black: rgba(0,0,0,1.0);
+    --candlelight: rgba(255,222,23,1.0);
+    --white: rgba(255,255,255,1.0);
+  }
+  
